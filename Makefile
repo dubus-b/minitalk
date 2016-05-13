@@ -5,14 +5,14 @@
 ## Login   <dubus_b@epitech.net>
 ## 
 ## Started on  Sun Nov 22 14:01:30 2015 Benjamin Dubus
-## Last update Sun Feb 21 23:35:42 2016 Benjamin Dubus
+## Last update Fri May 13 12:51:15 2016 Benjamin Dubus
 ##
 
 CC		= gcc
 
 RM		= rm -f
 
-CFLAGS		+= -Wall  -Wextra -Wpedantic
+CFLAGS		+= -Wall -Wextra -Wpedantic -W -Werror
 
 CLIENT		= client/client
 
