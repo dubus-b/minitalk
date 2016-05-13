@@ -1,0 +1,21 @@
+[3J[H[2JScan : [1mmain.c[0m
+[1;36m/***************************************\ [0m
+[1;36m|            [1;31m TRICHE[1;36m                     
+| [1;31mErreur: [0;36mmain.c: [0mmauvais header          [1;36m
+[1;36m\                                       /[0m
+[1;36m****************************************[0m
+Scan : [1museful_fonction.c[0m
+[1;36m/***************************************\ [0m
+[1;36m|            [1;31m TRICHE[1;36m                     
+| [1;31mErreur: [0;36museful_fonction.c: [0mmauvais header          [1;36m
+[1;36m\                                       /[0m
+[1;36m****************************************[0m
+[0mScan : [1mmyfx.h
+[1;36m/***************************************\ [0m
+[1;36m|            [1;31m TRICHE[1;36m                     
+| [1;31mErreur: [0;36mmyfx.h: [0mmauvais header          [1;36m
+[1;36m\                                       /[0m
+[1;36m****************************************[0m
+[1;31m: file not found or not readable for symbols[0m
+[1;31mVous avez fait 3 fautes de norme.
+[0m
